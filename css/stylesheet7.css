@@ -5,10 +5,13 @@
   color: #000000;
 }
 
-.gallery {
-  height: 200px;
-  width: 250px;
+.zoom{
+	height: 200px;
+	width: 250px;
 }
 
+.zoom:hover {
+  transform: scale(1.5);
+}
 
 
