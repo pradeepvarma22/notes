@@ -1,12 +1,11 @@
-# Notes
+# Bvrit_N R15 Notes
 ---
 
 ## To DO List:
-```
-+Add : Style Sheet
-+Add : JS
-+Add : M_Sub
-```
+
+~~Add : Style Sheet ~~
+~~Add : JS ~~
+~~Add : M_Sub ~~
 
 ---
 
@@ -15,4 +14,6 @@
 ---
 
 ## Bugs:
->Picture ZoomIn(Working On LocalHost)
+> ~~Picture ZoomIn(Working On LocalHost)~~
+
+---
