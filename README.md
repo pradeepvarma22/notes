@@ -3,9 +3,9 @@
 
 ## To DO List:
 
-~~Add : Style Sheet ~~
-~~Add : JS ~~
-~~Add : M_Sub ~~
+* ~~Add : Style Sheet~~
+* ~~Add : JS~~
+* ~~Add : M_Sub~~
 
 ---
 
