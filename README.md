@@ -11,3 +11,8 @@
 ---
 
 [ Web Link :  https://varma7.github.io/ ](https://varma7.github.io/)
+
+---
+#Bugs:
+>Picture ZoomIn(Working On LocalHost)
+>
