@@ -1,12 +1,13 @@
 # Notes
 ---
 
-##To DO List:
+## To DO List:
 ```
 +Add : Style Sheet
 +Add : JS
 +Add : M_Sub
 ```
+
 ---
 
-[Link ](https://varma7.github.io/)
+[ Web Link ](https://varma7.github.io/)
