@@ -1,1 +1,12 @@
-# varma7.github.io
+# Notes
+---
+
+##To DO List:
+```
++Add : Style Sheet
++Add : JS
++Add : M_Sub
+```
+---
+
+[Link ](https://varma7.github.io/)
