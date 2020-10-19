@@ -3,7 +3,7 @@
 
 ---
 
-Web Link :  varma7.github.io/notes
+Web Link : [varma7.github.io/notes](https://varma7.github.io/notes/)
 
 ---
 ## To DO List:
